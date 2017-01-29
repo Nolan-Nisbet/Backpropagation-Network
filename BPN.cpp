@@ -1,10 +1,6 @@
 /*
-
 Backpropagtion Neural Network
-CMPE 452 Assignment 2
-Nolan Nisbet 10089874
-
-
+Nolan Nisbet 
 */
 
 
